@@ -1,7 +1,3 @@
-**University of Pennsylvania, CIS 5650: GPU Programming and Architecture, Project 5**
-
-* Yannick Gachnang
-  * [LinkedIn](https://www.linkedin.com/in/yannickga/)
 * Tested on: Windows 10, EPYC 9354 @ 3.25GHz, 16GB RAM, RTX 2000 Ada 23GB VRAM
 
 Project 5 WebGPU Gaussian Splat Viewer
