@@ -1,6 +1,6 @@
 * Tested on: Windows 10, EPYC 9354 @ 3.25GHz, 16GB RAM, RTX 2000 Ada 23GB VRAM
 
-Project 5 WebGPU Gaussian Splat Viewer
+WebGPU Gaussian Splat Viewer
 ====================
 
 **Live Demo can be found [here](https://krispy-kenay.github.io/Project5-WebGPU-Gaussian-Splat-Viewer/)**
